@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H97JKP0NlBjP/M8r6IDyMkqYHJtwm3gya5mNxVr1m+GFqpruqfTsfO+wtTu4cGrpw6T8k6GkZSISxzKE283Ntg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amity\\Documents\\bPetClinicSolution\\bPetClinicSolution\\bPetClinicSolution.ViewModels\\bPetClinicSolution.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amity\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.8\\microsoft.aspnetcore.http.features.3.1.8.nupkg.sha512",
+    "C:\\Users\\Amity\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\Amity\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Amity\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Amity\\.nuget\\packages"
+    ]
+  }
+}
